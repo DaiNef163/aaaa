@@ -26,5 +26,6 @@ export const Colors = {
   },
   PRIMARY: '#7F57F1',
   GRAY : '#8f8f8f',
-  BACKGROUND:"#78BCC4"
+  BACKGROUND:"#78BCC4",
+  colorracs:"fffff"
 };
